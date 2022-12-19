@@ -9,3 +9,14 @@ Please review  - _**cart.php**_ . Code might contain data that violates your org
 
 
  **Rules Violated:** 
+ <summary> </summary>
+
+| Qnt. |Type|
+|-----:|-----------|
+|     2| SSN|
+|     1| Driver License  |
+|     2| Passport ID     |
+|     1| Medical Exam     |
+  
+</details>
+
